@@ -1,5 +1,9 @@
 # 👋 Hello there
-<br>
+MATHEUS LIMA RIBEIRO
+Cientista de Dados
+
+matheuslimaribeiro03@gmail.com | (61) 9 9692-3033 | linkedin.com/in/matheuslimaribeiro
+
 ## Skills 👨‍💻  
   
 - **Python** (pandas, numpy, matplotlib, Selenium, Adafruit_DHT): 3+ years  
