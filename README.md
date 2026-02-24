@@ -1,5 +1,4 @@
 # 👋 Hello there
-Hi there! I'm a Data Scientist passionate about transforming data into actionable insights and innovative solutions.<br><br>I'm currently working on data analysis and business intelligence projects at EMBRAPII, where I consolidate robust databases, perform econometric analyses, and help drive strategic decision-making. I also have hands-on experience with IoT, having developed a smart room dashboard using Raspberry Pi and Python.<br><br>I'm looking to collaborate on data-driven projects, especially those involving Python, Power BI, or machine learning.<br><br>I'm looking for help with advanced machine learning techniques and best practices for deploying data science solutions at scale. If you have experience with MLOps or large-scale data pipelines, I'd love to talk about!<br>
 <br>
 
 ## Skills 👨‍💻  
@@ -9,9 +8,7 @@ Hi there! I'm a Data Scientist passionate about transforming data into actionabl
 - **Power BI**: 2+ years  
 - **R**: 1 years  
 - **SAS**: 2+ years  
-- **Machine Learning**: 2 years  
 - **C**: 2 years 
-- **Data Analysis**: 3+ years  
 - **Inglês**: Advanced
 
 ## Projects 🧱  
