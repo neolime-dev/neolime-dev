@@ -1,6 +1,5 @@
 # 👋 Hello there
 <br>
-
 ## Skills 👨‍💻  
   
 - **Python** (pandas, numpy, matplotlib, Selenium, Adafruit_DHT): 3+ years  
