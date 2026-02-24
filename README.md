@@ -31,8 +31,8 @@ Here are some of my favorite projects, where I apply and expand my skills:
   _SQL, SAS_  
   
 
-## 📄 Curriculum
-Access my professional experience in my [curriculum](https://github.com/neolime-dev/Curriculum).
+## 📄 Currículo
+Acesse meu currículo em [curriculum](https://github.com/neolime-dev/Curriculum).
 
 ## 🏆 Certificates
 - 📂 [Certificates](https://github.com/neolime-dev/Certificates)
