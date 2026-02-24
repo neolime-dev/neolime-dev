@@ -41,9 +41,6 @@ Access my professional experience in my [curriculum](https://github.com/neolime-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslimaribeiro/) <br>
 Email: matheuslimaribeiro03@gmail.com
 
-## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neolime-dev&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 <!-- [![VisitorCount](https://visitcount.itsvg.in/api?id=neolime-dev&icon=0&color=3)](https://visitcount.itsvg.in) -->
 
 <br>
