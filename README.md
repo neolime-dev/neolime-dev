@@ -9,7 +9,7 @@ Acesse meu currículo em [curriculum](https://github.com/neolime-dev/Curriculum)
 
 ## Skills 👨‍💻  
   
-- **Python** (pandas, numpy, matplotlib, Selenium, Adafruit_DHT): 3+ years  
+- **Python** (pandas, numpy, matplotlib, Selenium, LangChain, Adafruit_DHT): 3+ years  
 - **SQL/PostgreSQL**: 3+ years
 - **Power BI**: 2+ years  
 - **R**: 1 years  
