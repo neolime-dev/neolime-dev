@@ -1,57 +1,46 @@
-# 👋 Hello there
-MATHEUS LIMA RIBEIRO
-Cientista de Dados
+# Hi, I'm Matheus 👋
 
-matheuslimaribeiro03@gmail.com | (61) 9 9692-3033 | linkedin.com/in/matheuslimaribeiro
+**Data Scientist** · Brasília, Brazil · Data Science & AI student at IESB
 
-## 📄 Currículo
-Acesse meu currículo em [curriculum](https://github.com/neolime-dev/Curriculum).
+I build data pipelines, NLP analyses and local-first AI tools. I like turning messy public data (DATASUS, app reviews, game catalogs) into something people can explore.
 
-## Skills 👨‍💻  
-  
-- **Python** (pandas, numpy, matplotlib, Selenium, LangChain, Adafruit_DHT): 3+ years  
-- **SQL/PostgreSQL**: 3+ years
-- **Power BI**: 2+ years  
-- **R**: 1 years  
-- **SAS**: 2+ years  
-- **C**: 2 years 
-- **Inglês**: Advanced
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslimaribeiro/)
+[![Blog](https://img.shields.io/badge/Blog-neolime.net-2ea44f)](https://neolime.net)
 
-## Projects 🧱  
-  
-Here are some of my favorite projects, where I apply and expand my skills:
-  
-- 🧱 **Dashboard of Smart Room Control**    
-  IoT with Raspberry PI and sensors for real time monitoring of temperature and humidity, increasing energy efficiency by 30%.
-  (_Python, Adafruit_DHT, pandas, numpy_)
-  
-- 🧱 **Collection, Modeling and Analysis of DATASUS data**    
-  WebScration and Data Analysis (2019-2023) of Datasus, generating insights for public health policies.    
-  (_Python, Selenium, pandas, matplotlib, numpy, PostgreSQL_)
-  
-- 🧱 **Statistical Analysis of the 2022 Brazilian General Elections**    
-  (Construction and analysis of electoral databases, increasing the accuracy of forecasts by 50%.)    
-  _SQL, SAS_  
-  
+## 🧰 Stack
 
-## 📄 Currículo
-Acesse meu currículo em [curriculum](https://github.com/neolime-dev/Curriculum).
+**Data:** Python (pandas, NumPy, scikit-learn, statsmodels) · SQL / PostgreSQL · SAS · R · Power BI
+**NLP & AI:** VADER, TextBlob, TF-IDF, LangChain, RAG, local LLMs (Ollama, llama.cpp)
+**Apps & tooling:** Streamlit · Selenium · Docker · Go · Linux
 
-## 🏆 Certificates
-- 📂 [Certificates](https://github.com/neolime-dev/Certificates)
+## 📊 Featured projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslimaribeiro/) <br>
-Email: matheuslimaribeiro03@gmail.com
+| Project | What it does | Stack |
+|---|---|---|
+| [**Ludex**](https://github.com/neolime-dev/Ludex) | Game recommender with TF-IDF + hybrid ranking and an offline assistant using local RAG | Python, Streamlit, scikit-learn, Ollama, Docker |
+| [**SUS Outpatient Production**](https://github.com/neolime-dev/producao-ambulatorial-sus) | Automated extraction, storage and dashboards for SUS outpatient data (DATASUS/TabNet, 2024–2026) | Python, SQL, Streamlit |
+| [**DataSUS Hospitalizations**](https://github.com/neolime-dev/DataSUS) | Web scraping and analysis of hospital admissions in Brazil (2019–2023) | Python, Selenium, PostgreSQL, SAS Viya |
+| [**Nubank Sentiment Analysis**](https://github.com/neolime-dev/Analise-Sentimentos-Nubank) | Rule-based sentiment analysis of 3,000 Google Play reviews | Python, VADER, TextBlob |
+| [**NLP Document Analysis**](https://github.com/neolime-dev/nlp-analise) | Statistical text analysis of PDF documents with an interactive app | Python, Streamlit |
+| [**NeoCognito**](https://github.com/neolime-dev/NeoCognito) | Terminal "second brain": Markdown notes + SQLite search, keyboard-first | Go, Bubble Tea, SQLite |
 
-<!-- [![VisitorCount](https://visitcount.itsvg.in/api?id=neolime-dev&icon=0&color=3)](https://visitcount.itsvg.in) -->
+<details>
+<summary>🇧🇷 <b>Em português</b></summary>
 
 <br>
 
-<!-- Snake -->
+**Cientista de Dados** em Brasília, estudante de Ciência de Dados e IA no IESB.
+
+Construo pipelines de dados, análises de NLP e ferramentas de IA que rodam localmente. Gosto de transformar dados públicos bagunçados (DATASUS, avaliações de apps, catálogos de jogos) em algo fácil de explorar.
+
+**Projetos em destaque:** recomendador de jogos com RAG local (Ludex), pipeline de dados da Produção Ambulatorial do SUS, análise de internações do DataSUS, análise de sentimentos do Nubank e o NeoCognito, um "segundo cérebro" no terminal.
+
+Escrevo sobre dados, IA local e Linux em [neolime.net](https://neolime.net).
+
+</details>
+
 <div align="center">
 
-  ![snake gif](https://github.com/neolime-dev/neolime-dev/blob/output/github-snake-dark.svg)
+![snake](https://github.com/neolime-dev/neolime-dev/blob/output/github-snake-dark.svg)
+
 </div>
-
-<div align="center">
