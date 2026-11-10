@@ -2,7 +2,7 @@
 
 **Data Scientist** · Brasília, Brazil · Data Science & AI student at IESB
 
-I build data pipelines, NLP analyses and local-first AI tools. I like turning messy public data (DATASUS, app reviews, game catalogs) into something people can explore.
+I build data pipelines, NLP analyses and local-first AI tools. I like turning messy public data (DATASUS, app reviews, Steam market data) into something people can explore.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslimaribeiro/)
 [![Blog](https://img.shields.io/badge/Blog-neolime.net-2ea44f)](https://neolime.net)
@@ -17,7 +17,7 @@ I build data pipelines, NLP analyses and local-first AI tools. I like turning me
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Ludex**](https://github.com/neolime-dev/Ludex) | Game recommender with TF-IDF + hybrid ranking and an offline assistant using local RAG | Python, Streamlit, scikit-learn, Ollama, Docker |
+| [**CS2 Market Anomaly Triage (TCC)**](https://github.com/neolime-dev/tcc-cs2-triagem) | Undergraduate thesis: flags anomalous patterns as possible manipulation signals in CS2 skins on the Steam Community Market (robust MAD baseline, PELT change points, Isolation Forest, event study) with an interactive triage app | Python, scikit-learn, ruptures, Streamlit, Docker |
 | [**SUS Outpatient Production**](https://github.com/neolime-dev/producao-ambulatorial-sus) | Automated extraction, storage and dashboards for SUS outpatient data (DATASUS/TabNet, 2024–2026) | Python, SQL, Streamlit |
 | [**DataSUS Hospitalizations**](https://github.com/neolime-dev/DataSUS) | Web scraping and analysis of hospital admissions in Brazil (2019–2023) | Python, Selenium, PostgreSQL, SAS Viya |
 | [**Nubank Sentiment Analysis**](https://github.com/neolime-dev/Analise-Sentimentos-Nubank) | Rule-based sentiment analysis of 3,000 Google Play reviews | Python, VADER, TextBlob |
@@ -31,9 +31,9 @@ I build data pipelines, NLP analyses and local-first AI tools. I like turning me
 
 **Cientista de Dados** em Brasília, estudante de Ciência de Dados e IA no IESB.
 
-Construo pipelines de dados, análises de NLP e ferramentas de IA que rodam localmente. Gosto de transformar dados públicos bagunçados (DATASUS, avaliações de apps, catálogos de jogos) em algo fácil de explorar.
+Construo pipelines de dados, análises de NLP e ferramentas de IA que rodam localmente. Gosto de transformar dados públicos bagunçados (DATASUS, avaliações de apps, dados do mercado da Steam) em algo fácil de explorar.
 
-**Projetos em destaque:** recomendador de jogos com RAG local (Ludex), pipeline de dados da Produção Ambulatorial do SUS, análise de internações do DataSUS, análise de sentimentos do Nubank e o NeoCognito, um "segundo cérebro" no terminal.
+**Projetos em destaque:** meu TCC sobre detecção de anomalias no mercado de skins de CS2, pipeline de dados da Produção Ambulatorial do SUS, análise de internações do DataSUS, análise de sentimentos do Nubank e o NeoCognito, um "segundo cérebro" no terminal.
 
 Escrevo sobre dados, IA local e Linux em [neolime.net](https://neolime.net).
 
